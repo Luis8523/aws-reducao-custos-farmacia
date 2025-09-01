@@ -25,8 +25,11 @@ src/ └── br.com.abstergo.aws/ ├── LambdaNotificacao.java ├── R
 # Compilar o projeto
 ./gradlew build
 
-# Executar localmente
+#Executar localmente
+
 java -jar build/libs/aws-reducao-custos-farmacia.jar
+
+
 
 [**Luis**](https://github.com/Luis8523)  
 
