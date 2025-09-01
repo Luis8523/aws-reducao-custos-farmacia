@@ -1,0 +1,25 @@
+📄 RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
+• 	Data de início do projeto: 01/09/2025
+• 	Empresa: Abstergo Industries
+• 	Responsável: Luis
+
+1. Introdução
+Este relatório apresenta o processo de implementação de serviços da AWS na empresa fictícia Abstergo Industries, com o objetivo de reduzir custos operacionais em farmácias. A proposta é aplicar soluções em nuvem que substituam infraestruturas locais, automatizem tarefas e otimizem o uso de recursos tecnológicos, promovendo maior eficiência e economia.
+
+2. Descrição do Projeto
+O projeto foi dividido em três etapas, cada uma focada em um serviço específico da AWS, com aplicação prática voltada à realidade de farmácias.
+
+🔹 Etapa 1
+• 	Nome da ferramenta: Amazon S3
+• 	Foco da ferramenta: Armazenamento escalável e econômico
+• 	Descrição de caso de uso: Substituição de servidores locais por armazenamento em nuvem para documentos, imagens de receitas, backups de sistemas e relatórios. Isso reduz custos com hardware e manutenção, além de garantir alta disponibilidade dos dados.
+
+🔹 Etapa 2
+• 	Nome da ferramenta: AWS Lambda
+• 	Foco da ferramenta: Execução de código sem servidor (serverless)
+• 	Descrição de caso de uso: Automatização de tarefas como envio de e-mails com relatórios diários, notificações de estoque baixo e integração com sistemas de vendas, sem necessidade de manter servidores ativos 24h.
+
+🔹 Etapa 3
+• 	Nome da ferramenta: Amazon RDS
+• 	Foco da ferramenta: Banco de dados gerenciado
+• 	Descrição de caso de uso: Migração do banco de dados local para uma instância gerenciada na nuvem, com escalabilidade automática e backups integrados. Isso reduz custos com equipe de manutenção e melhora a segurança dos dados.
